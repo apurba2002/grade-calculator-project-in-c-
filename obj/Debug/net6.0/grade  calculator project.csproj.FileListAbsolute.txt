@@ -1,0 +1,15 @@
+E:\c# projects\grade  calculator project\bin\Debug\net6.0\grade  calculator project.exe
+E:\c# projects\grade  calculator project\bin\Debug\net6.0\grade  calculator project.deps.json
+E:\c# projects\grade  calculator project\bin\Debug\net6.0\grade  calculator project.runtimeconfig.json
+E:\c# projects\grade  calculator project\bin\Debug\net6.0\grade  calculator project.dll
+E:\c# projects\grade  calculator project\bin\Debug\net6.0\grade  calculator project.pdb
+E:\c# projects\grade  calculator project\obj\Debug\net6.0\grade  calculator project.csproj.AssemblyReference.cache
+E:\c# projects\grade  calculator project\obj\Debug\net6.0\grade  calculator project.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\grade  calculator project\obj\Debug\net6.0\grade  calculator project.AssemblyInfoInputs.cache
+E:\c# projects\grade  calculator project\obj\Debug\net6.0\grade  calculator project.AssemblyInfo.cs
+E:\c# projects\grade  calculator project\obj\Debug\net6.0\grade  calculator project.csproj.CoreCompileInputs.cache
+E:\c# projects\grade  calculator project\obj\Debug\net6.0\grade  calculator project.dll
+E:\c# projects\grade  calculator project\obj\Debug\net6.0\refint\grade  calculator project.dll
+E:\c# projects\grade  calculator project\obj\Debug\net6.0\grade  calculator project.pdb
+E:\c# projects\grade  calculator project\obj\Debug\net6.0\grade  calculator project.genruntimeconfig.cache
+E:\c# projects\grade  calculator project\obj\Debug\net6.0\ref\grade  calculator project.dll

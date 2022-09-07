@@ -1,0 +1,20 @@
+if (number>=80 && number<100 )
+{
+    Console.WriteLine("You get A+");
+}
+else if (number>=70 && number<80)
+{
+    Console.WriteLine("You get A");
+}
+else if (number>=50 && number<700)
+{
+    Console.WriteLine("You get A-");
+}
+else if (number>=33 && number<50)
+{
+    Console.WriteLine("You get D");
+}
+else 
+{
+    Console.WriteLine("You get F");
+}
